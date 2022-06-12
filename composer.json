@@ -1,25 +1,12 @@
 {
-    "name": "spatie/laravel-stats-pgsql",
+    "name": "hackable/laravel-stats-pgsql",
     "description": "Track application stat changes over time",
     "keywords": [
-        "spatie",
-        "laravel-stats"
+        "laravel-stats-pgsql"
     ],
     "homepage": "https://github.com/hackable/laravel-stats-pgsql",
     "license": "MIT",
     "authors": [
-        {
-            "name": "Alex Vanderbist",
-            "email": "alex@spatie.be",
-            "homepage": "https://spatie.be",
-            "role": "Developer"
-        },
-        {
-            "name": "Freek Van der Herten",
-            "email": "freek@spatie.be",
-            "homepage": "https://spatie.be",
-            "role": "Developer"
-        },
         {
             "name": "Rohan Dey",
             "email": "hello@rohandey.com",
@@ -68,11 +55,7 @@
     "funding": [
         {
             "type": "github",
-            "url": "https://github.com/sponsors/spatie"
-        },
-        {
-            "type": "other",
-            "url": "https://spatie.be/open-source/support-us"
+            "url": "https://github.com/sponsors/hackable"
         }
     ]
 }
